@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anjali Rana BDS, Launches Site"
+title: "anjali-rana-site-launched"
 date: 2017-11-30
 ---
 
