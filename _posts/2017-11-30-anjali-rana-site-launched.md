@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anjali rana BDS-site-launched"
+title: "anjali-rana-site-launched"
 date: 2017-11-30
 ---
 
